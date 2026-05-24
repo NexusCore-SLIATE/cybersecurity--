@@ -28,9 +28,7 @@ cybersecurity-workspace/ (Root)
  │    └── nmap-recon/
  │         └── README.md        # Nmap host discovery & scanning workflows
  ├── ctf-writeups/              # Capture-The-Flag Knowledge Base
- │    ├── platform-challenges/
- │    │    └── index.md         # Walkthrough indices and templates
- │    └── README.md             # Standard write-up logs & formatting guidelines
- └── security-tools/            # Custom Defensive & Recon Utilities
-      ├── passive-recon.py      # Native Python DNS & domain inspection engine
-      └── firewall-monitor.sh   # Automated Bash socket and port auditor
+      ├── platform-challenges/
+      │    └── index.md         # Walkthrough indices and templates
+      └── README.md             # Standard write-up logs & formatting guidelines
+
