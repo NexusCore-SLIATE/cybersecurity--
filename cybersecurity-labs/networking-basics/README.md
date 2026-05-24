@@ -1,4 +1,5 @@
 # 🌐 Lab 00: Core Networking Foundations & Packet Mechanics
+# Date: 24 May 2026
 
 Before deploying defensive rules or launching reconnaissance scans, a security analyst must understand how information traverses boundaries. This lab explores the architectural models and packet parsing flows running on your Linux Mint host.
 
