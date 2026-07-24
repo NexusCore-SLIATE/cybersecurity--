@@ -25,6 +25,8 @@ cybersecurity-workspace/ (Root)
  ├── cybersecurity-labs/        # Sandboxed Training Environments
  │    ├── networking-basics/
  │    │    └── README.md        # OSI model, packet parsing, and routing rules
+ │    ├── rhel-server-setup/
+ │    │    └── README.md        # RHEL server setup and preliminary hardening
  │    └── nmap-recon/
  │         └── README.md        # Nmap host discovery & scanning workflows
  ├── ctf-writeups/              # Capture-The-Flag Knowledge Base
